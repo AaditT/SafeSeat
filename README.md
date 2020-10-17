@@ -5,5 +5,5 @@ Smart car seat extension to monitor car temperatures and proper usage of seat be
 Code is uploaded as ```SafeSeat.ino```
 
 ## Diagrams
-![SafeSeat Flowchart](https://github.com/AaditT/SafeSeat/blob/main/img/SafeSeat%20-%20Flowchart.png?raw=true =200x130)
-![SafeSeat Schematic](https://github.com/AaditT/SafeSeat/blob/main/img/SafeSeat%20-%20Schematic.jpg?raw=true =200x130)
+<img src="https://github.com/AaditT/SafeSeat/blob/main/img/SafeSeat%20-%20Flowchart.png?raw=true" style="width:200px;height:130px;">
+<img src="https://github.com/AaditT/SafeSeat/blob/main/img/SafeSeat%20-%20Schematic.jpg?raw=true" style="width:200px;height:130px;">
